@@ -1,3 +1,7 @@
+//
+//The objective of this piece of work is to implement the affinity scheduling algorithm (https://ieeexplore.ieee.org/document/344281) using the Open Multiprocessing (OpenMP) framework.
+//
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>

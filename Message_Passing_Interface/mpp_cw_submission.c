@@ -1,3 +1,7 @@
+// 
+//The objective of this piece of work is to implement a two-dimensional lattice-based calculation that employs a two-dimensional domain decomposition and uses non-blocking communications. The developed code was applied within the context of image reconstruction from a starting image containing edges. This operation is conceptually similar to a large number of real scientific HPC calculations that solve partial differential equations using iterative algorithms such as Jacobi or Gauss-Seidel.
+//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
