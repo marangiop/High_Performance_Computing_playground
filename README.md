@@ -4,7 +4,6 @@ In this repository I go over some case-studies that involve the deployment of hi
 | Tool | Application  |
 | -------------        | -------------
 | MPI    |   Iterative image reconstruction |
-| OpenMP  | Affinity scheduling algorithm |    
 | Performance programming (serial) | Molecular dynamics simulation  |
 
 
