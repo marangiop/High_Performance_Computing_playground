@@ -1,7 +1,12 @@
+### Introduction
 The aim of this piece of work  was to perform performance optimisation for a relatively
 simple application code carrying out a molecular dynamics (MD).
 
-# Contents of scripts
+### Compile and run code
+gcc MD.c control.c util.c -lm -o executable_pp_code
+./executable_pp_code
+
+### Contents of scripts
 
 The programme reads an initial state from a file (i.e. input.dat) and then performs
 5 blocks of 100 timesteps worth of simulation writing an output file after each block.
